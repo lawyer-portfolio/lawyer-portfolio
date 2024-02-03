@@ -1,0 +1,356 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\index.htm
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/about.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\about.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/attorney.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\attorney.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/blog-single.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\blog-single.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/blog.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\blog.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/contact.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\contact.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/css/animate.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\animate.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/aos.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\aos.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/bootstrap-datepicker.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/flaticon.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\flaticon.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/icomoon.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\icomoon.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/jquery.timepicker.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\jquery.timepicker.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/open-iconic-bootstrap.min.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\open-iconic-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/css/style.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\css\style.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/flaticon/font/Flaticon.eot
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/flaticon/font/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/flaticon/font/Flaticon.svg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/flaticon/font/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/flaticon/font/Flaticon.woff
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\flaticon\font\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/icomoon/icomoon.eot?6tt51o
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/icomoon/icomoon.svg?6tt51o
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/icomoon/icomoon.ttf?6tt51o
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\icomoon\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/icomoon/icomoon.woff?6tt51o
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/ionicons/fonts/ionicons.svg?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/ionicons/fonts/ionicons.ttf?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/ionicons/fonts/ionicons.woff2?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\ionicons\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/ionicons/fonts/ionicons.woff?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.eot
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.eot?
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.otf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic.otf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.svg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/marco2/fonts/open-iconic/open-iconic.woff
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\fonts\open-iconic\open-iconic.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/marco2/images/bg_1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/bg_2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\bg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/bg_3.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\bg_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/bg_4.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\bg_4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/bg_5.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\bg_5.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_3.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_4.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_5.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_5.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/image_6.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\image_6.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/person_1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\person_1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/person_2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\person_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/person_3.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\person_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/person_4.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\person_4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-3.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-4.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-5.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-5.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/practice-6.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\practice-6.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/staff-1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\staff-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/staff-2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\staff-2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/staff-3.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\staff-3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/images/staff-4.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\images\staff-4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/marco2/index.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\index.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/marco2/js/aos.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\aos.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/bootstrap-datepicker.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/google-map.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\google-map.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery-migrate-3.0.1.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery-migrate-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.animateNumber.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.easing.1.3.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/main.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\main.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/popper.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/js/scrollax.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\js\scrollax.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/marco2/practice.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\marco2\practice.html
+Content Type: text/html
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\gtag\js
+Content Type: application/javascript
+
