@@ -3866,3 +3866,19 @@ textarea.form-control {
   margin-top: 10px;
   margin-left: 20px;
 }
+
+.laws-tabs{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  gap: 20px;
+}
+
+.btn-laws{
+border: 1px solid;
+font-size: 20px; 
+background-color: transparent;
+}
