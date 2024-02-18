@@ -19,7 +19,9 @@
     <link rel="stylesheet" href="css/aos.css" />
     <link rel="stylesheet" href="css/ionicons.min.css" />
     <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
-    <link rel="stylesheet" href="css/jquery.timepicker.css" />
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">
+    <!-- <link rel="stylesheet" href="css/jquery.timepicker.css" /> -->
     <link rel="stylesheet" href="css/flaticon.css" />
     <link rel="stylesheet" href="css/icomoon.css" />
     <link rel="stylesheet" href="css/style.css" />
@@ -30,6 +32,18 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <script
+    type="text/javascript"
+    src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+  ></script>
+  <script type="text/javascript">
+    (function () {
+      emailjs.init({
+        publicKey: "va5zk0LZ0uWnqi7qo",
+      });
+    })();
+  </script>
+  <script src="js/mail.js"></script>
   </head>
   <body>
     <!-- ---------- Navigation ---------- -->
@@ -866,15 +880,21 @@
       <div class="container">
         <div class="row align-items-md-center">
           <div class="col-md-5 pt-5">
-            <form action="#" class="consult-form py-5">
+            <form
+              onsubmit="emailSent(); reset(); return console.log('form submitted')"
+              class="consult-form py-5"
+            >
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group mb-4">
                     <label for="#">Name</label>
                     <input
                       type="text"
+                      id="name"
+                      name="name"
                       class="form-control"
                       placeholder="Name"
+                      required
                     />
                   </div>
                 </div>
@@ -882,9 +902,12 @@
                   <div class="form-group mb-4">
                     <label for="#">Email Address</label>
                     <input
-                      type="text"
+                      type="email"
+                      id="mail"
+                      name="mail"
                       class="form-control"
                       placeholder="Email Address"
+                      required
                     />
                   </div>
                 </div>
@@ -894,8 +917,11 @@
                     <div class="form-field">
                       <input
                         type="text"
+                        id="date"
+                        name="date"
                         class="form-control checkin_date"
                         placeholder="Date"
+                        required
                       />
                     </div>
                   </div>
@@ -908,12 +934,19 @@
                         <div class="icon">
                           <span class="ion-ios-arrow-down"></span>
                         </div>
-                        <select name="" id="" class="form-control">
-                          <option value="">Family Law</option>
-                          <option value="">Labor Law</option>
-                          <option value="">Business Ligitation</option>
-                          <option value="">Employment Law</option>
-                          <option value="">Criminal Law</option>
+                        <select
+                          name="categories"
+                          id="categories"
+                          class="form-control"
+                          required
+                        >
+                          <option value="Family Law">Family Law</option>
+                          <option value="Labor Law">Labor Law</option>
+                          <option value="Business Ligitation">
+                            Business Ligitation
+                          </option>
+                          <option value="Employment Law">Employment Law</option>
+                          <option value="Criminal Law">Criminal Law</option>
                         </select>
                       </div>
                     </div>
@@ -923,12 +956,13 @@
                   <div class="form-group mb-4">
                     <label for="#">Message</label>
                     <textarea
-                      name=""
-                      id=""
+                      name="message"
+                      id="message"
                       cols="30"
                       rows="7"
                       class="form-control form-control-2 d-flex align-items-center"
                       placeholder="Message"
+                      required
                     ></textarea>
                   </div>
                 </div>
@@ -938,6 +972,7 @@
                       type="submit"
                       value="Make an Appointment"
                       class="btn btn-primary py-3 px-4"
+                      required
                     />
                   </div>
                 </div>
@@ -1104,13 +1139,16 @@
     <script src="js/aos.js"></script>
     <script src="js/jquery.animateNumber.min.js"></script>
     <script src="js/bootstrap-datepicker.js"></script>
-    <script src="js/jquery.timepicker.min.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
+    <!-- <script src="js/jquery.timepicker.min.js"></script> -->
     <script src="js/scrollax.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
 
     <script async="" src="./gtag/js?id=UA-23581568-13"></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -1127,5 +1165,7 @@
       data-cf-beacon='{"rayId":"84b07f15da2a118e","version":"2024.1.0","token":"cd0b4b3a733644fc843ef0b185f98241"}'
       crossorigin="anonymous"
     ></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.7.0.js"></script> -->
+<!-- <script src="https://code.jquery.com/jquery-migrate-3.4.1.js"></script> -->
   </body>
 </html>
