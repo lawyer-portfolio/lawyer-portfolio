@@ -1,7 +1,7 @@
 function emailSent() {
   var params = {
     name: document.getElementById("name").value,
-    email: document.getElementById("email").value,
+    email: document.getElementById("mail").value,
     message: document.getElementById("message").value,
     date: document.getElementById("date").value,
     categories: document.getElementById("categories").value,
@@ -16,7 +16,7 @@ function emailSent() {
     .send(serviceID, templateID, params)
     .then((res) => {
       document.getElementById("name").value = "";
-      document.getElementById("email").value = "";
+      document.getElementById("mail").value = "";
       document.getElementById("message").value = "";
       document.getElementById("date").value = "";
       document.getElementById("categories").value = "";
@@ -25,3 +25,6 @@ function emailSent() {
     })
     .catch((err) => console.log(err));
 }
+
+
+emailSent()

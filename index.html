@@ -20,8 +20,11 @@
     <link rel="stylesheet" href="css/ionicons.min.css" />
     <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
 
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">
-    <!-- <link rel="stylesheet" href="css/jquery.timepicker.css" /> -->
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css"
+    />
+    <link rel="stylesheet" href="css/jquery.timepicker.css" />
     <link rel="stylesheet" href="css/flaticon.css" />
     <link rel="stylesheet" href="css/icomoon.css" />
     <link rel="stylesheet" href="css/style.css" />
@@ -33,17 +36,10 @@
       referrerpolicy="no-referrer"
     />
     <script
-    type="text/javascript"
-    src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
-  ></script>
-  <script type="text/javascript">
-    (function () {
-      emailjs.init({
-        publicKey: "va5zk0LZ0uWnqi7qo",
-      });
-    })();
-  </script>
-  <script src="js/mail.js"></script>
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   </head>
   <body>
     <!-- ---------- Navigation ---------- -->
@@ -123,11 +119,16 @@
             <h3 class="mb-4 mb-lg-0">For My Consultation</h3>
           </div>
           <div class="col-lg-10">
-            <form action="#" class="consult-form">
+            <form id="submit-form" action="" class="consult-form">
               <div class="d-lg-flex align-items-md-end">
                 <div class="form-group mb-3 mb-lg-0 mr-4">
                   <label for="#">Name</label>
-                  <input type="text" class="form-control" placeholder="Name" />
+                  <input
+                    type="text"
+                    id="name"
+                    class="form-control"
+                    placeholder="Name"
+                  />
                 </div>
                 <div class="form-group mb-3 mb-lg-0 mr-4">
                   <label for="#">Email Address</label>
@@ -135,6 +136,7 @@
                     type="text"
                     class="form-control"
                     placeholder="Email Address"
+                    id="email"
                   />
                 </div>
                 <div class="form-group mb-3 mb-lg-0 mr-4">
@@ -144,7 +146,11 @@
                       <div class="icon">
                         <span class="ion-ios-arrow-down"></span>
                       </div>
-                      <select name="" id="" class="form-control">
+                      <select
+                        name="categories"
+                        id="categories"
+                        class="form-control"
+                      >
                         <option value="">Family Law</option>
                         <option value="">Labor Law</option>
                         <option value="">Business Ligitation</option>
@@ -158,7 +164,7 @@
                   <label for="#">Message</label>
                   <textarea
                     name=""
-                    id=""
+                    id="message"
                     cols="30"
                     rows="3"
                     class="form-control d-flex align-items-center"
@@ -206,10 +212,10 @@
                 <h3 class="heading">Taxation</h3>
                 <p class="practice-desc visible">Laws Related to Taxation</p>
                 <div class="practice-areas justify-content-center gap-3">
-                  <a href="taxation-india.html" class="btn btn-primary"
+                  <a href="taxation/india/taxationIndia.html" class="btn btn-primary"
                     >India</a
                   >
-                  <a href="taxation-uae.html" class="btn btn-primary">UAE</a>
+                  <a href="taxation/UAE/taxationUAE.html" class="btn btn-primary">UAE</a>
                 </div>
               </div>
             </div>
@@ -880,10 +886,7 @@
       <div class="container">
         <div class="row align-items-md-center">
           <div class="col-md-5 pt-5">
-            <form
-              onsubmit="emailSent(); reset(); return console.log('form submitted')"
-              class="consult-form py-5"
-            >
+            <form id="gform" action="" class="consult-form py-5">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group mb-4">
@@ -972,7 +975,6 @@
                       type="submit"
                       value="Make an Appointment"
                       class="btn btn-primary py-3 px-4"
-                      required
                     />
                   </div>
                 </div>
@@ -1127,6 +1129,42 @@
         ></circle>
       </svg>
     </div>
+    <script>
+      $("#submit-form").submit((e) => {
+        e.preventDefault();
+        $.ajax({
+          url: "https://script.google.com/macros/s/AKfycbwansuZwZ5uqGsQtUEos8Se-rAer_pvLbHFtn4rJ1G_4Oi9VuecKDOyEzoIqDfTtZtl/exec",
+          data: $("#submit-form").serialize(),
+          method: "post",
+          success: function (response) {
+            alert("Form submitted successfully");
+            window.location.reload();
+            //window.location.href="https://google.com"
+          },
+          error: function (err) {
+            alert("Something Error");
+          },
+        });
+      });
+    </script>
+    <script>
+      $("#gform").submit((e) => {
+        e.preventDefault();
+        $.ajax({
+          url: "https://script.google.com/macros/s/AKfycbwansuZwZ5uqGsQtUEos8Se-rAer_pvLbHFtn4rJ1G_4Oi9VuecKDOyEzoIqDfTtZtl/exec",
+          data: $("#gform").serialize(),
+          method: "post",
+          success: function (response) {
+            alert("Form submitted successfully");
+            window.location.reload();
+            //window.location.href="https://google.com"
+          },
+          error: function (err) {
+            alert("Something Error");
+          },
+        });
+      });
+    </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -1141,7 +1179,7 @@
     <script src="js/bootstrap-datepicker.js"></script>
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
-    <!-- <script src="js/jquery.timepicker.min.js"></script> -->
+    <script src="js/jquery.timepicker.min.js"></script>
     <script src="js/scrollax.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
@@ -1165,7 +1203,7 @@
       data-cf-beacon='{"rayId":"84b07f15da2a118e","version":"2024.1.0","token":"cd0b4b3a733644fc843ef0b185f98241"}'
       crossorigin="anonymous"
     ></script>
-    <!-- <script src="https://code.jquery.com/jquery-3.7.0.js"></script> -->
-<!-- <script src="https://code.jquery.com/jquery-migrate-3.4.1.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.4.1.js"></script>
   </body>
 </html>
