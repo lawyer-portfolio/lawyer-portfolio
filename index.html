@@ -124,8 +124,10 @@
                 <div class="form-group mb-3 mb-lg-0 mr-4">
                   <label for="#">Name</label>
                   <input
+                    required
                     type="text"
                     id="name"
+                    name="name"
                     class="form-control"
                     placeholder="Name"
                   />
@@ -133,7 +135,9 @@
                 <div class="form-group mb-3 mb-lg-0 mr-4">
                   <label for="#">Email Address</label>
                   <input
+                    required
                     type="text"
+                    name="mail"
                     class="form-control"
                     placeholder="Email Address"
                     id="email"
@@ -147,15 +151,33 @@
                         <span class="ion-ios-arrow-down"></span>
                       </div>
                       <select
+                        required
                         name="categories"
                         id="categories"
                         class="form-control"
                       >
-                        <option value="">Family Law</option>
-                        <option value="">Labor Law</option>
-                        <option value="">Business Ligitation</option>
-                        <option value="">Employment Law</option>
-                        <option value="">Criminal Law</option>
+                        <option disabled value="" selected>Select</option>
+                        <option value="Banking & Finance">
+                          Banking & Finance
+                        </option>
+                        <option value="Business Registration">
+                          Business Registration
+                        </option>
+                        <option value="Business Ligitation">
+                          Business Ligitation
+                        </option>
+                        <option value="Commercial Law">Commercial Law</option>
+                        <option value="Criminal Law">Criminal Law</option>
+                        <option value="Educational Consulting">
+                          Educational Consulting
+                        </option>
+                        <option value="Employment Law">Employment Law</option>
+                        <option value="Family Law">Family Law</option>
+                        <option value="Labor Law">Labor Law</option>
+                        <option value="Motor Vehicle Law">
+                          Motor Vehicle Law
+                        </option>
+                        <option value="Real Estate Law">Real Estate Law</option>
                       </select>
                     </div>
                   </div>
@@ -163,7 +185,8 @@
                 <div class="form-group mb-3 mb-lg-0 mr-4">
                   <label for="#">Message</label>
                   <textarea
-                    name=""
+                    required
+                    name="message"
                     id="message"
                     cols="30"
                     rows="3"
@@ -592,21 +615,23 @@
                   </div>
                   <div class="text">
                     <p class="mb-5 pl-4 line">
-                      As a CFO, I highly recommend Adv Siddique C& Co for their
-                      exceptional legal expertise, strategic guidance, and
-                      commitment to achieving favorable outcomes. Their team's
-                      diligent approach, clear communication, and depth of
-                      knowledge have been instrumental in navigating complex
-                      legal matters and safeguarding our financial interests.
-                      We've relied on their counsel for various financial
-                      transactions and regulatory compliance, and they
-                      consistently deliver results with integrity and
-                      professionalism. I wholeheartedly endorse Adv Siddique C&
-                      Co for any company seeking top-tier legal representation.
+                      As a Chief Administrative Officer, I enthusiastically
+                      recommend [Law Firm Name] for their exceptional legal
+                      support and dedication to client satisfaction. Their
+                      team's efficiency, attention to detail, and proactive
+                      approach have greatly streamlined our administrative
+                      processes and mitigated risks across various business
+                      functions. [Law Firm Name] consistently demonstrates
+                      professionalism, reliability, and a deep understanding of
+                      our organizational needs. Whether it's handling complex
+                      contracts, regulatory compliance, or general legal
+                      matters, they consistently exceed our expectations. I
+                      confidently endorse [Law Firm Name] as a trusted partner
+                      for any company seeking comprehensive legal solutions.
                     </p>
-                    <p class="name">CFO</p>
+                    <p class="name">CAO</p>
                     <span class="position"
-                      >STANDMARK INTERNATIONAL PVT LTD
+                      >Standmark International Pvt Ltd
                     </span>
                   </div>
                 </div>
@@ -658,12 +683,22 @@
                   </div>
                   <div class="text">
                     <p class="mb-5 pl-4 line">
-                      Far far away, behind the word mountains, far from the
-                      countries Vokalia and Consonantia, there live the blind
-                      texts.
+                      As a CFO, I highly recommend Adv Siddique C& Co for their
+                      exceptional legal expertise, strategic guidance, and
+                      commitment to achieving favorable outcomes. Their team's
+                      diligent approach, clear communication, and depth of
+                      knowledge have been instrumental in navigating complex
+                      legal matters and safeguarding our financial interests.
+                      We've relied on their counsel for various financial
+                      transactions and regulatory compliance, and they
+                      consistently deliver results with integrity and
+                      professionalism. I wholeheartedly endorse Adv Siddique C&
+                      Co for any company seeking top-tier legal representation.
                     </p>
-                    <p class="name">Garreth Smith</p>
-                    <span class="position">UI Designer</span>
+                    <p class="name">CFO</p>
+                    <span class="position"
+                      >STANDMARK INTERNATIONAL PVT LTD
+                    </span>
                   </div>
                 </div>
               </div>
@@ -892,7 +927,7 @@
     <!-- ---------- Case Study ---------- -->
 
     <!-- ---------- Contact ---------- -->
-    <section class="ftco-section ftc-no-pb ftc-no-pt bg-light" id="contact">
+    <section id="appooinment" class="ftco-section ftc-no-pb ftc-no-pt bg-light" id="contact">
       <div class="container">
         <div class="row align-items-md-center">
           <div class="col-md-5 pt-5">
@@ -953,13 +988,30 @@
                           class="form-control"
                           required
                         >
-                          <option value="Family Law">Family Law</option>
-                          <option value="Labor Law">Labor Law</option>
+                          <option selected value="" disabled>Select</option>
+                          <option value="Banking & Finance">
+                            Banking & Finance
+                          </option>
+                          <option value="Business Registration">
+                            Business Registration
+                          </option>
                           <option value="Business Ligitation">
                             Business Ligitation
                           </option>
-                          <option value="Employment Law">Employment Law</option>
+                          <option value="Commercial Law">Commercial Law</option>
                           <option value="Criminal Law">Criminal Law</option>
+                          <option value="Educational Consulting">
+                            Educational Consulting
+                          </option>
+                          <option value="Employment Law">Employment Law</option>
+                          <option value="Family Law">Family Law</option>
+                          <option value="Labor Law">Labor Law</option>
+                          <option value="Motor Vehicle Law">
+                            Motor Vehicle Law
+                          </option>
+                          <option value="Real Estate Law">
+                            Real Estate Law
+                          </option>
                         </select>
                       </div>
                     </div>
@@ -1028,15 +1080,17 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">About Me</h2>
               <p>
-                Far far away, behind the word mountains, far from the countries
-                Vokalia and Consonantia, there live the blind texts.
+                Experienced corporate lawyer specializing in tax and business
+                law, dedicated to securing favorable outcomes for clients.
               </p>
               <ul
                 class="ftco-footer-social list-unstyled float-md-left float-lft mt-3"
               >
                 <li class="ftco-animate">
-                  <a href="https://youtube.com/@advsiddique?si=JAuUJDRWoH_NEFWZ"
-                    > <span class="fa-brands fa-youtube"></span>
+                  <a
+                    href="https://youtube.com/@advsiddique?si=JAuUJDRWoH_NEFWZ"
+                  >
+                    <span class="fa-brands fa-youtube"></span>
                   </a>
                 </li>
                 <li class="ftco-animate">
@@ -1058,11 +1112,11 @@
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Usefull Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#">Family Law</a></li>
-                <li><a href="#">Drug Law</a></li>
-                <li><a href="#">Insurance Law</a></li>
-                <li><a href="#">Criminal Law</a></li>
-                <li><a href="#">Business Law</a></li>
+                <li><a href="family-law-india.html">Family Law</a></li>
+                <li><a href="taxation/india/taxationIndia.html">Taxation</a></li>
+                <li><a href="labour-law-india.html">Labour Law</a></li>
+                <li><a href="criminal-law-india.html">Criminal Law</a></li>
+                <li><a href="business-registration-india.html">Business Law</a></li>
               </ul>
             </div>
           </div>
@@ -1070,11 +1124,11 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Quick Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Practice Areas</a></li>
-                <li><a href="#">Appointment</a></li>
-                <li><a href="#">Terms &amp; Conditions</a></li>
-                <li><a href="#">FAQ</a></li>
+                <li><a href="#about-me">About Us</a></li>
+                <li><a href="#practice">Practice Areas</a></li>
+                <li><a href="#appooinment">Appointment</a></li>
+                <!-- <li><a href="#practice">Terms &amp; Conditions</a></li> -->
+                <!-- <li><a href="#practice">FAQ</a></li> -->
               </ul>
             </div>
           </div>
@@ -1100,10 +1154,8 @@
                     <a href="#"
                       ><span class="icon icon-envelope"></span
                       ><span class="text"
-                        ><span
-                          class="__cf_email__"
-                          data-cfemail="167f787079566f79636472797b777f783875797b"
-                          >[email&#160;protected]</span
+                        ><span class="__cf_email__"
+                          >advsiddiquec@gmail.com</span
                         ></span
                       ></a
                     >
