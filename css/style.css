@@ -2463,6 +2463,9 @@ h4,
   font-weight: 700;
 }
 @media (min-width: 768px) {
+  .owl-carousel.home-slider .slider-item {
+    height: 60vh;
+  }
   .owl-carousel.home-slider .slider-item .slider-text .text {
     padding-left: 4em;
     border-left: 1px solid rgba(255, 255, 255, 0.2);
@@ -3885,4 +3888,26 @@ textarea.form-control {
 border: 1px solid;
 font-size: 20px; 
 background-color: transparent;
+}
+
+#item-sec{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 100%;
+  margin-bottom: 100px;
+}
+
+.item-sec-child{
+align-items: center;
+  justify-content: center;
+}
+
+
+@media (max-width: 768px) {
+  #item-sec{
+    object-fit: contain;
+    margin-bottom: 150px;
+  }
 }
