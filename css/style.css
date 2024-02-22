@@ -3908,6 +3908,6 @@ align-items: center;
 @media (max-width: 768px) {
   #item-sec{
     object-fit: contain;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
   }
 }
