@@ -23,7 +23,7 @@
 
 		$('.js-fullheight').css('height', $(window).height());
 		$(window).resize(function(){
-			$('.js-fullheight').css('height', $(window).height());
+			$('.js-fullheight').css('height', $(window).height()/2);
 		});
 
 	};

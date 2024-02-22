@@ -1066,6 +1066,7 @@ fieldset:disabled a.btn {
 }
 
 .navbar-brand {
+  color: black;
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
@@ -1174,11 +1175,11 @@ fieldset:disabled a.btn {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #000000;
 }
 .navbar-dark .navbar-brand:hover,
 .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #000000;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -2067,7 +2068,7 @@ h4,
   }
 }
 .ftco-navbar-light .navbar-brand {
-  color: #fff;
+  color: #000000;
 }
 @media (max-width: 767.98px) {
   .ftco-navbar-light .navbar-brand {
@@ -2076,7 +2077,7 @@ h4,
 }
 @media (min-width: 768px) {
   .ftco-navbar-light .navbar-brand {
-    color: #fff;
+    color: #000000;
   }
 }
 @media (max-width: 991.98px) {
@@ -2204,16 +2205,17 @@ h4,
   color: #000000;
 }
 .ftco-navbar-light.scrolled .navbar-brand span {
-  color: #b8b0b0;
+  color: #767676;
 }
 
 .navbar-brand {
+  color: #000;
   font-weight: 700;
   font-size: 20px;
   position: relative;
 }
 .navbar-brand span {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(43, 43, 43, 0.4);
 }
 
 .hero-wrap .forth {
