@@ -2794,7 +2794,9 @@ h4,
 }
 @media (max-width: 767.98px) {
   .img-2 {
-    height: 300px;
+    /* padding-top: 50px; */
+    height: 70vh;
+    width: 100%;
     margin-bottom: 40px;
   }
 }
